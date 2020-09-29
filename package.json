@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon --watch src --exec \"json-server --routes ./src/routes.json  --port 3002 ./src/_db.js\""
+    "start": "nodemon --watch src --exec \"json-server --routes ./src/routes.json  --port 3004 ./src/_db.js\""
   },
   "dependencies": {
     "glob": "7.1.6",
