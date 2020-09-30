@@ -1,14 +1,16 @@
 var totals = {
-          "Deaths": 973653,
-          "Cumulative Deaths": 90240219,
-          "Deaths Last 7 Days": 6711459,
-          "Deaths Last 7 Days Change": 1294695.9999999981,
-          "Deaths Per Million": 2596364.19000006,
-          "Confirmed": 31798308,
-          "Cumulative Confirmed": 2210859832,
-          "Cases Last 7 Days": 216774399,
-          "Cases Last 7 Days Change": 3287175.7399999783,
-          "Cases Per Million": 88042522.54000154
-        }
+  "deaths":1003497,
+  // "Cumulative Deaths":95936264,
+  // "Deaths Last 7 Days":6926454,
+  // "Deaths Last 7 Days Change":1317430.4199999988,
+  // "Deaths Per Million":2741238.3400000473,
+  "confirmed":33441919,
+  // "Cumulative Confirmed":2401002422,
+  // "Cases Last 7 Days":228490303,
+  // "Cases Last 7 Days Change":3320759.4799999776,
+  // "Cases Per Million":94757783.22000197,
+  "cured": 21600000,
+  "infections": 33441919 - 21600000 - 1003497
+}
 
 module.exports = totals;
