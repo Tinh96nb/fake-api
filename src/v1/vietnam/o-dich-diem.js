@@ -1,6 +1,7 @@
 var benhNhans = [
   {
     id: "BN403",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -17,6 +18,7 @@ var benhNhans = [
   },
   {
     id: "BN404",
+    f: "F0",
     Tuổi: "49",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -33,6 +35,7 @@ var benhNhans = [
   },
   {
     id: "BN405",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -49,6 +52,7 @@ var benhNhans = [
   },
   {
     id: "BN406",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -65,6 +69,7 @@ var benhNhans = [
   },
   {
     id: "BN407",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -81,6 +86,7 @@ var benhNhans = [
   },
   {
     id: "BN408",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Nga",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -97,6 +103,7 @@ var benhNhans = [
   },
   {
     id: "BN409",
+    f: "F0",
     Tuổi: "37",
     "Quốc Tịch": "Philippines",
     Tỉnh: "Kiên Giang",
@@ -113,6 +120,7 @@ var benhNhans = [
   },
   {
     id: "BN410",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Nam Định",
@@ -129,6 +137,7 @@ var benhNhans = [
   },
   {
     id: "BN411",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Nam Định",
@@ -145,6 +154,7 @@ var benhNhans = [
   },
   {
     id: "BN412",
+    f: "F0",
     Tuổi: "49",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Nam Định",
@@ -161,6 +171,7 @@ var benhNhans = [
   },
   {
     id: "BN413",
+    f: "F0",
     Tuổi: "31",
     "Quốc Tịch": "Myanmar",
     Tỉnh: "Quảng Ninh",
@@ -177,6 +188,7 @@ var benhNhans = [
   },
   {
     id: "BN414",
+    f: "F0",
     Tuổi: "34",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Ninh Bình",
@@ -193,6 +205,7 @@ var benhNhans = [
   },
   {
     id: "BN415",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Ninh Bình",
@@ -209,6 +222,7 @@ var benhNhans = [
   },
   {
     id: "BN416",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -225,6 +239,7 @@ var benhNhans = [
   },
   {
     id: "BN417",
+    f: "F0",
     Tuổi: "5",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bạc Liêu",
@@ -241,6 +256,7 @@ var benhNhans = [
   },
   {
     id: "BN418",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -257,6 +273,7 @@ var benhNhans = [
   },
   {
     id: "BN419",
+    f: "F0",
     Tuổi: "17",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Ngãi",
@@ -273,6 +290,7 @@ var benhNhans = [
   },
   {
     id: "BN420",
+    f: "F0",
     Tuổi: "71",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -289,6 +307,7 @@ var benhNhans = [
   },
   {
     id: "BN421",
+    f: "F0",
     Tuổi: "26",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -305,6 +324,7 @@ var benhNhans = [
   },
   {
     id: "BN422",
+    f: "F0",
     Tuổi: "63",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -321,6 +341,7 @@ var benhNhans = [
   },
   {
     id: "BN423",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -337,6 +358,7 @@ var benhNhans = [
   },
   {
     id: "BN424",
+    f: "F0",
     Tuổi: "58",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -353,6 +375,7 @@ var benhNhans = [
   },
   {
     id: "BN425",
+    f: "F0",
     Tuổi: "24",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -369,6 +392,7 @@ var benhNhans = [
   },
   {
     id: "BN426",
+    f: "F0",
     Tuổi: "62",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -385,6 +409,7 @@ var benhNhans = [
   },
   {
     id: "BN427",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -401,6 +426,7 @@ var benhNhans = [
   },
   {
     id: "BN428",
+    f: "F0",
     Tuổi: "60",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -417,6 +443,7 @@ var benhNhans = [
   },
   {
     id: "BN429",
+    f: "F0",
     Tuổi: "53",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -433,6 +460,7 @@ var benhNhans = [
   },
   {
     id: "BN430",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -449,6 +477,7 @@ var benhNhans = [
   },
   {
     id: "BN431",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -465,6 +494,7 @@ var benhNhans = [
   },
   {
     id: "BN432",
+    f: "F0",
     Tuổi: "63",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -481,6 +511,7 @@ var benhNhans = [
   },
   {
     id: "BN433",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -497,6 +528,7 @@ var benhNhans = [
   },
   {
     id: "BN434",
+    f: "F0",
     Tuổi: "71",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -513,6 +545,7 @@ var benhNhans = [
   },
   {
     id: "BN435",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -529,6 +562,7 @@ var benhNhans = [
   },
   {
     id: "BN436",
+    f: "F0",
     Tuổi: "66",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -545,6 +579,7 @@ var benhNhans = [
   },
   {
     id: "BN437",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -561,6 +596,7 @@ var benhNhans = [
   },
   {
     id: "BN438",
+    f: "F0",
     Tuổi: "56",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -577,6 +613,7 @@ var benhNhans = [
   },
   {
     id: "BN439",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -593,6 +630,7 @@ var benhNhans = [
   },
   {
     id: "BN440",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -609,6 +647,7 @@ var benhNhans = [
   },
   {
     id: "BN441",
+    f: "F0",
     Tuổi: "43",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Ngãi",
@@ -625,6 +664,7 @@ var benhNhans = [
   },
   {
     id: "BN442",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -641,6 +681,7 @@ var benhNhans = [
   },
   {
     id: "BN443",
+    f: "F0",
     Tuổi: "43",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -657,6 +698,7 @@ var benhNhans = [
   },
   {
     id: "BN444",
+    f: "F0",
     Tuổi: "19",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -673,6 +715,7 @@ var benhNhans = [
   },
   {
     id: "BN445",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -689,6 +732,7 @@ var benhNhans = [
   },
   {
     id: "BN446",
+    f: "F0",
     Tuổi: "39",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -705,6 +749,7 @@ var benhNhans = [
   },
   {
     id: "BN447",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -721,6 +766,7 @@ var benhNhans = [
   },
   {
     id: "BN448",
+    f: "F0",
     Tuổi: "21",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đắk Lắk",
@@ -737,6 +783,7 @@ var benhNhans = [
   },
   {
     id: "BN449",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Mỹ",
     Tỉnh: "Đà Nẵng",
@@ -753,6 +800,7 @@ var benhNhans = [
   },
   {
     id: "BN450",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -769,6 +817,7 @@ var benhNhans = [
   },
   {
     id: "BN451",
+    f: "F0",
     Tuổi: "36",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -785,6 +834,7 @@ var benhNhans = [
   },
   {
     id: "BN452",
+    f: "F0",
     Tuổi: "52",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -801,6 +851,7 @@ var benhNhans = [
   },
   {
     id: "BN453",
+    f: "F0",
     Tuổi: "56",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -817,6 +868,7 @@ var benhNhans = [
   },
   {
     id: "BN454",
+    f: "F0",
     Tuổi: "65",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -833,6 +885,7 @@ var benhNhans = [
   },
   {
     id: "BN455",
+    f: "F0",
     Tuổi: "32",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -849,6 +902,7 @@ var benhNhans = [
   },
   {
     id: "BN456",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -865,6 +919,7 @@ var benhNhans = [
   },
   {
     id: "BN457",
+    f: "F0",
     Tuổi: "70",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -881,6 +936,7 @@ var benhNhans = [
   },
   {
     id: "BN458",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -897,6 +953,7 @@ var benhNhans = [
   },
   {
     id: "BN459",
+    f: "F0",
     Tuổi: "76",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -913,6 +970,7 @@ var benhNhans = [
   },
   {
     id: "BN460",
+    f: "F0",
     Tuổi: "49",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -929,6 +987,7 @@ var benhNhans = [
   },
   {
     id: "BN461",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -945,6 +1004,7 @@ var benhNhans = [
   },
   {
     id: "BN462",
+    f: "F0",
     Tuổi: "53",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -961,6 +1021,7 @@ var benhNhans = [
   },
   {
     id: "BN463",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -977,6 +1038,7 @@ var benhNhans = [
   },
   {
     id: "BN464",
+    f: "F0",
     Tuổi: "69",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -993,6 +1055,7 @@ var benhNhans = [
   },
   {
     id: "BN465",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1009,6 +1072,7 @@ var benhNhans = [
   },
   {
     id: "BN466",
+    f: "F0",
     Tuổi: "64",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1025,6 +1089,7 @@ var benhNhans = [
   },
   {
     id: "BN467",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1041,6 +1106,7 @@ var benhNhans = [
   },
   {
     id: "BN468",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1057,6 +1123,7 @@ var benhNhans = [
   },
   {
     id: "BN469",
+    f: "F0",
     Tuổi: "52",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1073,6 +1140,7 @@ var benhNhans = [
   },
   {
     id: "BN470",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1089,6 +1157,7 @@ var benhNhans = [
   },
   {
     id: "BN471",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1105,6 +1174,7 @@ var benhNhans = [
   },
   {
     id: "BN472",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1121,6 +1191,7 @@ var benhNhans = [
   },
   {
     id: "BN473",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1137,6 +1208,7 @@ var benhNhans = [
   },
   {
     id: "BN474",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1153,6 +1225,7 @@ var benhNhans = [
   },
   {
     id: "BN475",
+    f: "F0",
     Tuổi: "85",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1169,6 +1242,7 @@ var benhNhans = [
   },
   {
     id: "BN476",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1185,6 +1259,7 @@ var benhNhans = [
   },
   {
     id: "BN477",
+    f: "F0",
     Tuổi: "56",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1201,6 +1276,7 @@ var benhNhans = [
   },
   {
     id: "BN478",
+    f: "F0",
     Tuổi: "80",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1217,6 +1293,7 @@ var benhNhans = [
   },
   {
     id: "BN479",
+    f: "F0",
     Tuổi: "87",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1233,6 +1310,7 @@ var benhNhans = [
   },
   {
     id: "BN480",
+    f: "F0",
     Tuổi: "59",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1249,6 +1327,7 @@ var benhNhans = [
   },
   {
     id: "BN481",
+    f: "F0",
     Tuổi: "65",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1265,6 +1344,7 @@ var benhNhans = [
   },
   {
     id: "BN482",
+    f: "F0",
     Tuổi: "82",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1281,6 +1361,7 @@ var benhNhans = [
   },
   {
     id: "BN483",
+    f: "F0",
     Tuổi: "37",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1297,6 +1378,7 @@ var benhNhans = [
   },
   {
     id: "BN484",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1313,6 +1395,7 @@ var benhNhans = [
   },
   {
     id: "BN485",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1329,6 +1412,7 @@ var benhNhans = [
   },
   {
     id: "BN486",
+    f: "F0",
     Tuổi: "64",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1345,6 +1429,7 @@ var benhNhans = [
   },
   {
     id: "BN487",
+    f: "F0",
     Tuổi: "66",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1361,6 +1446,7 @@ var benhNhans = [
   },
   {
     id: "BN488",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1377,6 +1463,7 @@ var benhNhans = [
   },
   {
     id: "BN489",
+    f: "F0",
     Tuổi: "71",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1393,6 +1480,7 @@ var benhNhans = [
   },
   {
     id: "BN490",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1409,6 +1497,7 @@ var benhNhans = [
   },
   {
     id: "BN491",
+    f: "F0",
     Tuổi: "65",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1425,6 +1514,7 @@ var benhNhans = [
   },
   {
     id: "BN492",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1441,6 +1531,7 @@ var benhNhans = [
   },
   {
     id: "BN493",
+    f: "F0",
     Tuổi: "65",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1457,6 +1548,7 @@ var benhNhans = [
   },
   {
     id: "BN494",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1473,6 +1565,7 @@ var benhNhans = [
   },
   {
     id: "BN495",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1489,6 +1582,7 @@ var benhNhans = [
   },
   {
     id: "BN496",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1505,6 +1599,7 @@ var benhNhans = [
   },
   {
     id: "BN497",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1521,6 +1616,7 @@ var benhNhans = [
   },
   {
     id: "BN498",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1537,6 +1633,7 @@ var benhNhans = [
   },
   {
     id: "BN499",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1553,6 +1650,7 @@ var benhNhans = [
   },
   {
     id: "BN500",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1569,6 +1667,7 @@ var benhNhans = [
   },
   {
     id: "BN501",
+    f: "F0",
     Tuổi: "58",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1585,6 +1684,7 @@ var benhNhans = [
   },
   {
     id: "BN502",
+    f: "F0",
     Tuổi: "60",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1601,6 +1701,7 @@ var benhNhans = [
   },
   {
     id: "BN503",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1617,6 +1718,7 @@ var benhNhans = [
   },
   {
     id: "BN504",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1633,6 +1735,7 @@ var benhNhans = [
   },
   {
     id: "BN505",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1649,6 +1752,7 @@ var benhNhans = [
   },
   {
     id: "BN506",
+    f: "F0",
     Tuổi: "69",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1665,6 +1769,7 @@ var benhNhans = [
   },
   {
     id: "BN507",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1681,6 +1786,7 @@ var benhNhans = [
   },
   {
     id: "BN508",
+    f: "F0",
     Tuổi: "31",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1697,6 +1803,7 @@ var benhNhans = [
   },
   {
     id: "BN509",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -1713,6 +1820,7 @@ var benhNhans = [
   },
   {
     id: "BN510",
+    f: "F0",
     Tuổi: "57",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hồ Chí Minh",
@@ -1729,6 +1837,7 @@ var benhNhans = [
   },
   {
     id: "BN511",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1745,6 +1854,7 @@ var benhNhans = [
   },
   {
     id: "BN512",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1761,6 +1871,7 @@ var benhNhans = [
   },
   {
     id: "BN513",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1777,6 +1888,7 @@ var benhNhans = [
   },
   {
     id: "BN514",
+    f: "F0",
     Tuổi: "36",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1793,6 +1905,7 @@ var benhNhans = [
   },
   {
     id: "BN515",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1809,6 +1922,7 @@ var benhNhans = [
   },
   {
     id: "BN516",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1825,6 +1939,7 @@ var benhNhans = [
   },
   {
     id: "BN517",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1841,6 +1956,7 @@ var benhNhans = [
   },
   {
     id: "BN518",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Bà Rịa - Vũng Tàu",
@@ -1857,6 +1973,7 @@ var benhNhans = [
   },
   {
     id: "BN519",
+    f: "F0",
     Tuổi: "40",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1873,6 +1990,7 @@ var benhNhans = [
   },
   {
     id: "BN520",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1889,6 +2007,7 @@ var benhNhans = [
   },
   {
     id: "BN521",
+    f: "F0",
     Tuổi: "15",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1905,6 +2024,7 @@ var benhNhans = [
   },
   {
     id: "BN522",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1921,6 +2041,7 @@ var benhNhans = [
   },
   {
     id: "BN523",
+    f: "F0",
     Tuổi: "63",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -1937,6 +2058,7 @@ var benhNhans = [
   },
   {
     id: "BN524",
+    f: "F0",
     Tuổi: "86",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1953,6 +2075,7 @@ var benhNhans = [
   },
   {
     id: "BN525",
+    f: "F0",
     Tuổi: "90",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1969,6 +2092,7 @@ var benhNhans = [
   },
   {
     id: "BN526",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -1985,6 +2109,7 @@ var benhNhans = [
   },
   {
     id: "BN527",
+    f: "F0",
     Tuổi: "53",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2001,6 +2126,7 @@ var benhNhans = [
   },
   {
     id: "BN528",
+    f: "F0",
     Tuổi: "28",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2017,6 +2143,7 @@ var benhNhans = [
   },
   {
     id: "BN529",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2033,6 +2160,7 @@ var benhNhans = [
   },
   {
     id: "BN530",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2049,6 +2177,7 @@ var benhNhans = [
   },
   {
     id: "BN531",
+    f: "F0",
     Tuổi: "32",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2065,6 +2194,7 @@ var benhNhans = [
   },
   {
     id: "BN532",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2081,6 +2211,7 @@ var benhNhans = [
   },
   {
     id: "BN533",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2097,6 +2228,7 @@ var benhNhans = [
   },
   {
     id: "BN534",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2113,6 +2245,7 @@ var benhNhans = [
   },
   {
     id: "BN535",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2129,6 +2262,7 @@ var benhNhans = [
   },
   {
     id: "BN536",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2145,6 +2279,7 @@ var benhNhans = [
   },
   {
     id: "BN537",
+    f: "F0",
     Tuổi: "37",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2161,6 +2296,7 @@ var benhNhans = [
   },
   {
     id: "BN538",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2177,6 +2313,7 @@ var benhNhans = [
   },
   {
     id: "BN539",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2193,6 +2330,7 @@ var benhNhans = [
   },
   {
     id: "BN540",
+    f: "F0",
     Tuổi: "48",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2209,6 +2347,7 @@ var benhNhans = [
   },
   {
     id: "BN541",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2225,6 +2364,7 @@ var benhNhans = [
   },
   {
     id: "BN542",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2241,6 +2381,7 @@ var benhNhans = [
   },
   {
     id: "BN543",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2257,6 +2398,7 @@ var benhNhans = [
   },
   {
     id: "BN544",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2273,6 +2415,7 @@ var benhNhans = [
   },
   {
     id: "BN545",
+    f: "F0",
     Tuổi: "31",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2289,6 +2432,7 @@ var benhNhans = [
   },
   {
     id: "BN546",
+    f: "F0",
     Tuổi: "28",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nội",
@@ -2305,6 +2449,7 @@ var benhNhans = [
   },
   {
     id: "BN547",
+    f: "F0",
     Tuổi: "52",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2321,6 +2466,7 @@ var benhNhans = [
   },
   {
     id: "BN548",
+    f: "F0",
     Tuổi: "37",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2337,6 +2483,7 @@ var benhNhans = [
   },
   {
     id: "BN549",
+    f: "F0",
     Tuổi: "55",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2353,6 +2500,7 @@ var benhNhans = [
   },
   {
     id: "BN550",
+    f: "F0",
     Tuổi: "75",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2369,6 +2517,7 @@ var benhNhans = [
   },
   {
     id: "BN551",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2385,6 +2534,7 @@ var benhNhans = [
   },
   {
     id: "BN552",
+    f: "F0",
     Tuổi: "78",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2401,6 +2551,7 @@ var benhNhans = [
   },
   {
     id: "BN553",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2417,6 +2568,7 @@ var benhNhans = [
   },
   {
     id: "BN554",
+    f: "F0",
     Tuổi: "37",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2433,6 +2585,7 @@ var benhNhans = [
   },
   {
     id: "BN555",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2449,6 +2602,7 @@ var benhNhans = [
   },
   {
     id: "BN556",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2465,6 +2619,7 @@ var benhNhans = [
   },
   {
     id: "BN557",
+    f: "F0",
     Tuổi: "2",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2481,6 +2636,7 @@ var benhNhans = [
   },
   {
     id: "BN558",
+    f: "F0",
     Tuổi: "72",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2497,6 +2653,7 @@ var benhNhans = [
   },
   {
     id: "BN559",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Trà Vinh",
@@ -2513,6 +2670,7 @@ var benhNhans = [
   },
   {
     id: "BN560",
+    f: "F0",
     Tuổi: "26",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Trà Vinh",
@@ -2529,6 +2687,7 @@ var benhNhans = [
   },
   {
     id: "BN561",
+    f: "F0",
     Tuổi: "19",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -2545,6 +2704,7 @@ var benhNhans = [
   },
   {
     id: "BN562",
+    f: "F0",
     Tuổi: "53",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -2561,6 +2721,7 @@ var benhNhans = [
   },
   {
     id: "BN563",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -2577,6 +2738,7 @@ var benhNhans = [
   },
   {
     id: "BN564",
+    f: "F0",
     Tuổi: "36",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -2593,6 +2755,7 @@ var benhNhans = [
   },
   {
     id: "BN565",
+    f: "F0",
     Tuổi: "75",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -2609,6 +2772,7 @@ var benhNhans = [
   },
   {
     id: "BN566",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Thái Bình",
@@ -2625,6 +2789,7 @@ var benhNhans = [
   },
   {
     id: "BN567",
+    f: "F0",
     Tuổi: "49",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hồ Chí Minh",
@@ -2641,6 +2806,7 @@ var benhNhans = [
   },
   {
     id: "BN568",
+    f: "F0",
     Tuổi: "26",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hồ Chí Minh",
@@ -2657,6 +2823,7 @@ var benhNhans = [
   },
   {
     id: "BN569",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2673,6 +2840,7 @@ var benhNhans = [
   },
   {
     id: "BN570",
+    f: "F0",
     Tuổi: "9",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2689,6 +2857,7 @@ var benhNhans = [
   },
   {
     id: "BN571",
+    f: "F0",
     Tuổi: "36",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2705,6 +2874,7 @@ var benhNhans = [
   },
   {
     id: "BN572",
+    f: "F0",
     Tuổi: "43",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2721,6 +2891,7 @@ var benhNhans = [
   },
   {
     id: "BN573",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2737,6 +2908,7 @@ var benhNhans = [
   },
   {
     id: "BN574",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2753,6 +2925,7 @@ var benhNhans = [
   },
   {
     id: "BN575",
+    f: "F0",
     Tuổi: "82",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2769,6 +2942,7 @@ var benhNhans = [
   },
   {
     id: "BN576",
+    f: "F0",
     Tuổi: "32",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2785,6 +2959,7 @@ var benhNhans = [
   },
   {
     id: "BN577",
+    f: "F0",
     Tuổi: "73",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2801,6 +2976,7 @@ var benhNhans = [
   },
   {
     id: "BN578",
+    f: "F0",
     Tuổi: "86",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2817,6 +2993,7 @@ var benhNhans = [
   },
   {
     id: "BN579",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2833,6 +3010,7 @@ var benhNhans = [
   },
   {
     id: "BN580",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2849,6 +3027,7 @@ var benhNhans = [
   },
   {
     id: "BN581",
+    f: "F0",
     Tuổi: "24",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2865,6 +3044,7 @@ var benhNhans = [
   },
   {
     id: "BN582",
+    f: "F0",
     Tuổi: "58",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2881,6 +3061,7 @@ var benhNhans = [
   },
   {
     id: "BN583",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2897,6 +3078,7 @@ var benhNhans = [
   },
   {
     id: "BN584",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2913,6 +3095,7 @@ var benhNhans = [
   },
   {
     id: "BN585",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2929,6 +3112,7 @@ var benhNhans = [
   },
   {
     id: "BN586",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -2945,6 +3129,7 @@ var benhNhans = [
   },
   {
     id: "BN587",
+    f: "F0",
     Tuổi: "24",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hoà Bình",
@@ -2961,6 +3146,7 @@ var benhNhans = [
   },
   {
     id: "BN588",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hoà Bình",
@@ -2977,6 +3163,7 @@ var benhNhans = [
   },
   {
     id: "BN589",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hồ Chí Minh",
@@ -2993,6 +3180,7 @@ var benhNhans = [
   },
   {
     id: "BN590",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Ngãi",
@@ -3009,6 +3197,7 @@ var benhNhans = [
   },
   {
     id: "BN591",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3025,6 +3214,7 @@ var benhNhans = [
   },
   {
     id: "BN592",
+    f: "F0",
     Tuổi: "100",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3041,6 +3231,7 @@ var benhNhans = [
   },
   {
     id: "BN593",
+    f: "F0",
     Tuổi: "75",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3057,6 +3248,7 @@ var benhNhans = [
   },
   {
     id: "BN594",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3073,6 +3265,7 @@ var benhNhans = [
   },
   {
     id: "BN595",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đồng Nai",
@@ -3089,6 +3282,7 @@ var benhNhans = [
   },
   {
     id: "BN596",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3105,6 +3299,7 @@ var benhNhans = [
   },
   {
     id: "BN597",
+    f: "F0",
     Tuổi: "39",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3121,6 +3316,7 @@ var benhNhans = [
   },
   {
     id: "BN598",
+    f: "F0",
     Tuổi: "8",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3137,6 +3333,7 @@ var benhNhans = [
   },
   {
     id: "BN599",
+    f: "F0",
     Tuổi: "9",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3153,6 +3350,7 @@ var benhNhans = [
   },
   {
     id: "BN600",
+    f: "F0",
     Tuổi: "7",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3169,6 +3367,7 @@ var benhNhans = [
   },
   {
     id: "BN601",
+    f: "F0",
     Tuổi: "41",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đắk Lắk",
@@ -3185,6 +3384,7 @@ var benhNhans = [
   },
   {
     id: "BN602",
+    f: "F0",
     Tuổi: "14",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hồ Chí Minh",
@@ -3201,6 +3401,7 @@ var benhNhans = [
   },
   {
     id: "BN603",
+    f: "F0",
     Tuổi: "21",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3217,6 +3418,7 @@ var benhNhans = [
   },
   {
     id: "BN604",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3233,6 +3435,7 @@ var benhNhans = [
   },
   {
     id: "BN605",
+    f: "F0",
     Tuổi: "52",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3249,6 +3452,7 @@ var benhNhans = [
   },
   {
     id: "BN606",
+    f: "F0",
     Tuổi: "40",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3265,6 +3469,7 @@ var benhNhans = [
   },
   {
     id: "BN607",
+    f: "F0",
     Tuổi: "56",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3281,6 +3486,7 @@ var benhNhans = [
   },
   {
     id: "BN608",
+    f: "F0",
     Tuổi: "64",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3297,6 +3503,7 @@ var benhNhans = [
   },
   {
     id: "BN609",
+    f: "F0",
     Tuổi: "31",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3313,6 +3520,7 @@ var benhNhans = [
   },
   {
     id: "BN610",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3329,6 +3537,7 @@ var benhNhans = [
   },
   {
     id: "BN611",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3345,6 +3554,7 @@ var benhNhans = [
   },
   {
     id: "BN612",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3361,6 +3571,7 @@ var benhNhans = [
   },
   {
     id: "BN613",
+    f: "F0",
     Tuổi: "29",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3377,6 +3588,7 @@ var benhNhans = [
   },
   {
     id: "BN614",
+    f: "F0",
     Tuổi: "42",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3393,6 +3605,7 @@ var benhNhans = [
   },
   {
     id: "BN615",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3409,6 +3622,7 @@ var benhNhans = [
   },
   {
     id: "BN616",
+    f: "F0",
     Tuổi: "34",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3425,6 +3639,7 @@ var benhNhans = [
   },
   {
     id: "BN617",
+    f: "F0",
     Tuổi: "31",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3441,6 +3656,7 @@ var benhNhans = [
   },
   {
     id: "BN618",
+    f: "F0",
     Tuổi: "47",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3457,6 +3673,7 @@ var benhNhans = [
   },
   {
     id: "BN619",
+    f: "F0",
     Tuổi: "26",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3473,6 +3690,7 @@ var benhNhans = [
   },
   {
     id: "BN620",
+    f: "F0",
     Tuổi: "44",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Hà Nam",
@@ -3489,6 +3707,7 @@ var benhNhans = [
   },
   {
     id: "BN621",
+    f: "F0",
     Tuổi: "60",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Ngãi",
@@ -3505,6 +3724,7 @@ var benhNhans = [
   },
   {
     id: "BN622",
+    f: "F0",
     Tuổi: "39",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Ngãi",
@@ -3521,6 +3741,7 @@ var benhNhans = [
   },
   {
     id: "BN623",
+    f: "F0",
     Tuổi: "83",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Thừa Thiên-Huế",
@@ -3537,6 +3758,7 @@ var benhNhans = [
   },
   {
     id: "BN624",
+    f: "F0",
     Tuổi: "69",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3553,6 +3775,7 @@ var benhNhans = [
   },
   {
     id: "BN625",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3569,6 +3792,7 @@ var benhNhans = [
   },
   {
     id: "BN626",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3585,6 +3809,7 @@ var benhNhans = [
   },
   {
     id: "BN627",
+    f: "F0",
     Tuổi: "46",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Quảng Nam",
@@ -3601,6 +3826,7 @@ var benhNhans = [
   },
   {
     id: "BN628",
+    f: "F0",
     Tuổi: "43",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3617,6 +3843,7 @@ var benhNhans = [
   },
   {
     id: "BN629",
+    f: "F0",
     Tuổi: "27",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3633,6 +3860,7 @@ var benhNhans = [
   },
   {
     id: "BN630",
+    f: "F0",
     Tuổi: "54",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3649,6 +3877,7 @@ var benhNhans = [
   },
   {
     id: "BN631",
+    f: "F0",
     Tuổi: "61",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3665,6 +3894,7 @@ var benhNhans = [
   },
   {
     id: "BN632",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3681,6 +3911,7 @@ var benhNhans = [
   },
   {
     id: "BN633",
+    f: "F0",
     Tuổi: "43",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3697,6 +3928,7 @@ var benhNhans = [
   },
   {
     id: "BN634",
+    f: "F0",
     Tuổi: "54",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3713,6 +3945,7 @@ var benhNhans = [
   },
   {
     id: "BN635",
+    f: "F0",
     Tuổi: "78",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3729,6 +3962,7 @@ var benhNhans = [
   },
   {
     id: "BN636",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3745,6 +3979,7 @@ var benhNhans = [
   },
   {
     id: "BN637",
+    f: "F0",
     Tuổi: "25",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3761,6 +3996,7 @@ var benhNhans = [
   },
   {
     id: "BN638",
+    f: "F0",
     Tuổi: "23",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3777,6 +4013,7 @@ var benhNhans = [
   },
   {
     id: "BN639",
+    f: "F0",
     Tuổi: "32",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3793,6 +4030,7 @@ var benhNhans = [
   },
   {
     id: "BN640",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3809,6 +4047,7 @@ var benhNhans = [
   },
   {
     id: "BN641",
+    f: "F0",
     Tuổi: "120",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3825,6 +4064,7 @@ var benhNhans = [
   },
   {
     id: "BN642",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "Đà Nẵng",
@@ -3841,6 +4081,7 @@ var benhNhans = [
   },
   {
     id: "BN643",
+    f: "F0",
     Tuổi: "64",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3857,6 +4098,7 @@ var benhNhans = [
   },
   {
     id: "BN644",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3873,6 +4115,7 @@ var benhNhans = [
   },
   {
     id: "BN645",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3889,6 +4132,7 @@ var benhNhans = [
   },
   {
     id: "BN646",
+    f: "F0",
     Tuổi: "30",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3905,6 +4149,7 @@ var benhNhans = [
   },
   {
     id: "BN647",
+    f: "F0",
     Tuổi: "68",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3921,6 +4166,7 @@ var benhNhans = [
   },
   {
     id: "BN648",
+    f: "F0",
     Tuổi: "48",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3937,6 +4183,7 @@ var benhNhans = [
   },
   {
     id: "BN649",
+    f: "F0",
     Tuổi: "51",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3953,6 +4200,7 @@ var benhNhans = [
   },
   {
     id: "BN650",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3969,6 +4217,7 @@ var benhNhans = [
   },
   {
     id: "BN651",
+    f: "F0",
     Tuổi: "67",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -3985,6 +4234,7 @@ var benhNhans = [
   },
   {
     id: "BN652",
+    f: "F0",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4001,6 +4251,7 @@ var benhNhans = [
   },
   {
     id: "BN653",
+    f: "F0",
     Tuổi: "34",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4017,6 +4268,7 @@ var benhNhans = [
   },
   {
     id: "BN654",
+    f: "F0",
     Tuổi: "40",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4033,6 +4285,7 @@ var benhNhans = [
   },
   {
     id: "BN655",
+    f: "F0",
     Tuổi: "8",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4049,6 +4302,7 @@ var benhNhans = [
   },
   {
     id: "BN656",
+    f: "F0",
     Tuổi: "54",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4065,6 +4319,7 @@ var benhNhans = [
   },
   {
     id: "BN657",
+    f: "F0",
     Tuổi: "48",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4081,6 +4336,7 @@ var benhNhans = [
   },
   {
     id: "BN658",
+    f: "F0",
     Tuổi: "52",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4097,6 +4353,7 @@ var benhNhans = [
   },
   {
     id: "BN659",
+    f: "F0",
     Tuổi: "48",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4113,6 +4370,7 @@ var benhNhans = [
   },
   {
     id: "BN660",
+    f: "F0",
     Tuổi: "32",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4129,6 +4387,7 @@ var benhNhans = [
   },
   {
     id: "BN661",
+    f: "F0",
     Tuổi: "83",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4145,6 +4404,7 @@ var benhNhans = [
   },
   {
     id: "BN662",
+    f: "F0",
     Tuổi: "45",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4161,6 +4421,7 @@ var benhNhans = [
   },
   {
     id: "BN663",
+    f: "F0",
     Tuổi: "12",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4177,6 +4438,7 @@ var benhNhans = [
   },
   {
     id: "BN664",
+    f: "F0",
     Tuổi: "12",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4193,6 +4455,7 @@ var benhNhans = [
   },
   {
     id: "BN665",
+    f: "F0",
     Tuổi: "22",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4209,6 +4472,7 @@ var benhNhans = [
   },
   {
     id: "BN666",
+    f: "F0",
     Tuổi: "93",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4225,6 +4489,7 @@ var benhNhans = [
   },
   {
     id: "BN667",
+    f: "F1",
     Tuổi: "38",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4241,6 +4506,7 @@ var benhNhans = [
   },
   {
     id: "BN668",
+    f: "F0",
     Tuổi: "35",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4257,6 +4523,7 @@ var benhNhans = [
   },
   {
     id: "BN669",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4273,6 +4540,7 @@ var benhNhans = [
   },
   {
     id: "BN670",
+    f: "F0",
     Tuổi: "50",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
@@ -4289,6 +4557,7 @@ var benhNhans = [
   },
   {
     id: "BN671",
+    f: "F0",
     Tuổi: "33",
     "Quốc Tịch": "Việt Nam",
     Tỉnh: "",
