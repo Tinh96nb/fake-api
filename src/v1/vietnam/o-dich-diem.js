@@ -4269,7 +4269,7 @@ var benhNhans = [
     maudiem: "#cd8d7b",
     status: "",
     oDich: 1,
-    nguonLay: "",
+    nguonLay: ["BN668", "BN667"],
   },
   {
     id: "BN670",
